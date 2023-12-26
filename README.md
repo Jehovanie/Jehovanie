@@ -1,8 +1,8 @@
-### Hi there 👋
+# <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> <b>Hi, I'm Jehovanie RAMANDRIJOEL<sub style="font-size: 15px; font-style: italic">, a programming enthusiast.</sub><br> [![LinkedIn](https://img.shields.io/badge/Jeferson%20Ferreira-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jeffdevx)</b>
 
 # Project Name
 
-Brief description of your project.
+Brief description of your project
 
 ## Table of Contents
 - [Introduction](#introduction)
