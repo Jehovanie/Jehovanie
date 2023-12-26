@@ -1,4 +1,7 @@
-# <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> <b>Hi, I'm Jehovanie RAMANDRIJOEL<sub style="font-size: 15px; font-style: italic">, a programming enthusiast.</sub><br> [![LinkedIn](https://img.shields.io/badge/Jehovanie%20RAMANDRIJOEL-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jehovanie)</b>
+# <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> <b>Hi, I'm Jehovanie RAMANDRIJOEL<br> [![LinkedIn](https://img.shields.io/badge/Jehovanie%20RAMANDRIJOEL-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jehovanie)</b>
+
+
+Enthusiastic and passionate about the world of development, I'm a developer who immerses myself fervently in the challenges and opportunities offered by the IT field. My passion for programming goes far beyond mere technical skills; it's a true expression of my creativity and commitment to innovation.
 
 ⚡FullStack web-mobile developpeur and always looking to learn and expand my skills.<br>
 
@@ -32,7 +35,7 @@
     ![Trello Badge](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff&style=flat)
 
 
-\* Skills in study and improvement.
+\* I'm always eager to discover new technologies and methodologies..
 
 <!--
 **Jehovanie/Jehovanie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
